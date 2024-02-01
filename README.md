@@ -1,5 +1,5 @@
 # ProspectsForInconsistencyDetection
-Scripts and data supporting "Prospects for inconsistency detection using large language models and sheaves."
+Scripts and data supporting "Prospects for inconsistency detection using large language models and sheaves" at https://arxiv.org/abs/2401.16713
 
 * consistency20240119.py is the script for getting data from ChatGPT
 * consistencyDataScript.m is for post-processing and plotting in MATLAB after printing to the Python standard output, copypasting, and minimal find-replacing of numerical data
