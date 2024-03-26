@@ -485,7 +485,7 @@ for j = 1:numel(ha)
 end
 
 %% Save
-fileDir = '/Users/sha0639/Documents/BD';
+fileDir = '/';
 fileName = ['chatGPT',num2str(yyyymmdd(datetime))];
 print([fileDir,filesep,fileName],'-dpng');
 print([fileDir,filesep,fileName],'-dpdf');
